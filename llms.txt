@@ -1,0 +1,23 @@
+# 5 Star Small Engines
+
+> ATV, motorcycle, side-by-side, jet ski, golf cart, mower and handheld small-engine repair shop with an in-house Dynojet dyno, at 8094 Eisenhower Pkwy, Lizella, GA 31052 (just outside Macon, Georgia). Phone (478) 808-3415. Email for5star@gmail.com. Open Tuesday–Friday 9 AM–6 PM and Saturday 9 AM–2 PM; closed Sunday and Monday. Rated 4.9 stars from 169 Google reviews.
+
+## Key facts
+- Google category: ATV repair shop. Facebook category: Motorcycle Repair Shop.
+- Services: engine rebuilds and overhauls; carburetor rebuilds, cleaning and jetting; tune-ups and oil changes; electrical troubleshooting and intermittent bog diagnosis; in-house dyno tuning; fuel programmer installs; exhaust work.
+- Machines: ATVs and quads, motorcycles and dirt bikes, side-by-sides, jet skis, golf carts, mowers, handheld equipment.
+- Also: service, parts and sales (shop sign); buy, sell and trade (Facebook bio).
+- Customers report driving 3–4 hours for dyno tuning.
+- Payments: credit cards, debit cards, NFC mobile payments.
+- Accessibility: wheelchair-accessible entrance and parking; restroom.
+- Holiday hours (Thanksgiving, Black Friday) might differ; call ahead.
+- Facebook: https://www.facebook.com/5StarSmallEngines
+- Google Maps: https://maps.google.com/?cid=8058230847359779966
+
+## Pages
+- [Home](https://rgwebd.github.io/5starsmallengines/): overview, services, ratings, reviews
+- [Services](https://rgwebd.github.io/5starsmallengines/services.html): each service in detail, machines worked on, how a job works
+- [Dyno Tuning](https://rgwebd.github.io/5starsmallengines/dyno.html): the in-house dyno and how a tuning session goes
+- [The Shop](https://rgwebd.github.io/5starsmallengines/shop.html): showroom, amenities, payments and photo gallery
+- [Reviews](https://rgwebd.github.io/5starsmallengines/reviews.html): rating breakdown and five-star Google reviews quoted verbatim
+- [Visit](https://rgwebd.github.io/5starsmallengines/visit.html): hours, map, directions, service request form and FAQ
