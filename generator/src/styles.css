@@ -204,7 +204,7 @@ p{margin:0 0 1em}
 .collage .b{width:48%;aspect-ratio:3/4;right:0;bottom:0;border:6px solid var(--bk);box-shadow:0 30px 70px -20px #000}
 .collage .stamp{position:absolute;left:-10px;bottom:4%;width:150px;height:150px;z-index:3;animation:spin 24s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
-.collage .stamp text{font:700 13.5px var(--hud);letter-spacing:.32em;fill:#fff;text-transform:uppercase}
+.collage .stamp text{font:700 11.5px var(--hud);letter-spacing:.16em;fill:#fff;text-transform:uppercase}
 .collage .stamp img{position:absolute;inset:32px;width:86px;height:86px;animation:spin 24s linear infinite reverse}
 .points{list-style:none;padding:0;margin:26px 0 30px;display:grid;gap:16px}
 .points li{display:grid;grid-template-columns:44px 1fr;gap:16px;align-items:start}
@@ -413,3 +413,4 @@ p{margin:0 0 1em}
 
 @media (min-width:981px){.phero .wrap>*{max-width:min(700px,calc(100% - 520px))}.phero h1{font-size:clamp(50px,6.4vw,100px)}}
 @media (max-width:760px){.scrollcue{display:none}.trust .sep:last-of-type{display:none}}
+@media (max-width:560px){.rctl{flex-wrap:wrap}.rctl .btn{margin-left:0!important;width:100%;margin-top:6px}}
